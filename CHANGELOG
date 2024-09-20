@@ -1,0 +1,25 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+### Added
+### Changed
+### Removed
+
+
+## [0.0.1] 
+
+### Added
+
+- DNS hosted zone 'auto-discovery'
+- Domain name creation for 'subdomain' and 'www.subdomain'
+- S3 with non-public origin
+- ACM certificate generation
+- Cloudfront distribution
+
+[Unreleased]: https://github.com/asajaroff/tf-aws-cloudfront-s3-origin/compare/v1.1.1...HEAD
+[0.0.1]: https://github.com/asajaroff/tf-aws-cloudfront-s3-origin/releases/tag/v0.0.1
